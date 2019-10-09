@@ -12,7 +12,7 @@ Modelagem em Java de telas básicas (Menu, inventário) de um jogo didático vol
   A fim de testar nosso projeto, você deve criar um novo schema no WorkBench chamado ltp_ifsp que possibilitará a conexão do
 código com a base de dados. Após isso basta inicializar o compilador Java de sua preferência. 
 
-**Tip** Obs: É necessária a configuração do build path que pode ser efetuada através das bibliotecas já inclusas na pasta libs. Além disso, caso seu workbench possua senha, é necessário alterar o script hibernate.cfg.xml, colocando a senha no campo password. 
+> **Tip** Obs: É necessária a configuração do build path que pode ser efetuada através das bibliotecas já inclusas na pasta libs. Além disso, caso seu workbench possua senha, é necessário alterar o script hibernate.cfg.xml, colocando a senha no campo password. 
  
  
  
