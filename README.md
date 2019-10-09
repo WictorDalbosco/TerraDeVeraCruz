@@ -12,7 +12,7 @@ Modelagem em Java de telas básicas (Menu, inventário) de um jogo didático vol
   A fim de testar nosso projeto, você deve criar um novo schema no WorkBench chamado ltp_ifsp que possibilitará a conexão do
 código com a base de dados. Após isso basta inicializar o compilador Java de sua preferência. 
 
-> **Tip** É necessária a configuração do build path que pode ser efetuada através das bibliotecas já inclusas na pasta libs. Além disso, caso seu workbench possua senha, é necessário alterar o script hibernate.cfg.xml, colocando a senha no campo password. 
+> **Obs:** É necessária a configuração do build path que pode ser efetuada através das bibliotecas já inclusas na pasta libs. Além disso, caso seu workbench possua senha, é necessário alterar o script hibernate.cfg.xml, colocando a senha no campo password. 
  
  
  
@@ -23,6 +23,6 @@ Brazilian history game programmed using Java for primary screens, such as Menu a
  <b>Initializing the code</b>
  
    In order to test our project, you should create a new schema in WorkBench called ltp_ifsp that will enable the connection
-of the code with the database structure. After that just initialize your preferred Java compiler. Obs: it's necessary to configure
-the build path that can be done through the libs included in the libs file. Besides that, you should check if your WorkBench 
-password matches the one in the hibernate.cfg.xml script file.If not, just change the password parameter on it.
+of the code with the database structure. After that just initialize your preferred Java compiler.
+
+> **Tip:** it's necessary to configure the build path that can be done through the libs included in the libs file. Besides that, you should check if your WorkBench password matches the one in the hibernate.cfg.xml script file.If not, just change the password parameter on it.
