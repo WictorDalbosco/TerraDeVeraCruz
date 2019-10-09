@@ -25,4 +25,4 @@ Brazilian history game programmed using Java for primary screens, such as Menu a
    In order to test our project, you should create a new schema in WorkBench called ltp_ifsp that will enable the connection
 of the code with the database structure. After that just initialize your preferred Java compiler.
 
-> **Tip:** it's necessary to configure the build path that can be done through the libs included in the libs file. Besides that, you should check if your WorkBench password matches the one in the hibernate.cfg.xml script file.If not, just change the password parameter on it.
+> **Obs:** it's necessary to configure the build path that can be done through the libs included in the libs file. Besides that, you should check if your WorkBench password matches the one in the hibernate.cfg.xml script file.If not, just change the password parameter on it.
