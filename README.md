@@ -1,11 +1,7 @@
 # TerraDeVeraCruz
 <h1>(PT-BR)</h1> 
 
- Nosso protótipo de jogo foi desenvolvido durante as aulas ao longo de 2 anos de curso técnico em informática no Instituto
-Federal em Bragança Paulista. Durante as aulas foi proposto a criação de um projeto, no qual o nosso grupo (Leonardo Paes, Pedro 
-Teressan e Wictor Dalbosco) decidiu desenvolver um jogo com base em eventos históricos brasileiros ocorridos no século XIX.O protótipo foi desenvolvido em linguagem Java. Ao decorrer do tempo foram implementadas telas usando tecnologias como o WindowBuilder e Hibernate para conxão com banco de dados. 
-
-Modelagem em Java de telas básicas (Menu, inventário) de um jogo didático voltado para ensino de história brasileira.
+ Nosso protótipo de jogo foi desenvolvido durante as aulas ao longo de 2 anos de curso técnico em informática no Instituto Federal em Bragança Paulista. Nesse ínterim das aulas foi proposto a criação de um projeto, no qual o nosso grupo (Leonardo Paes, Pedro Teressan e Wictor Dalbosco) decidiu desenvolver um jogo com base em eventos históricos brasileiros ocorridos no século XVI.O protótipo foi criado em linguagem Java. Ao decorrer do tempo foram implementadas telas usando tecnologias como o WindowBuilder e Hibernate para conxão com banco de dados. Em suma, Foi feita uma modelagem em Java de telas básicas (Menu, inventário) de um jogo didático voltado para ensino de história brasileira.
  
  <b>Inicializando o código</b>
  
@@ -17,7 +13,7 @@ código com a base de dados. Após isso basta inicializar o compilador Java de s
  
  
 <h1>(EN-US)</h1>
-
+Our game prototype was developed during programming classes through 2 college years in a federal vocational school in Bragança Paulista, São Paulo, Brazil. In the meantime, it was proposed the creation of a project, which our group (Leonardo Paes, Pedro Teressan and Wictor Dalbosco) decided to build a game based on brazilian historical events ocurred on the XVI century. The prototype were coded in Java programming language. We implemented screens using technologies such as WindwBuilder and Hibernate to make a connection between the Database and the code. In short, it was made a basic screen modeling (Menu, Inventory) of a game
 Brazilian history game programmed using Java for primary screens, such as Menu and Inventory.
    
  <b>Initializing the code</b>
