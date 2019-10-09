@@ -1,7 +1,9 @@
 # TerraDeVeraCruz
 <h1>(PT-BR)</h1> 
 
-Nosso jog
+Nosso protótipo de jogo foi desenvolvido durante as aulas técnicas ao longo de 2 anos de curso técnico em informática no Instituto
+Federal em Bragança Paulista. Durante as aulas foi proposto a criação de um projeto, no qual o nosso grupo (Leonardo Paes, Pedro 
+Teressan e Wictor Dalbosco) decidiu desenvolver um jogo com base em eventos históricos brasileiros ocorridos no século XIX. 
 
 Modelagem em Java de telas básicas (Menu, inventário) de um jogo didático voltado para ensino de história brasileira.
  
