@@ -13,7 +13,7 @@ código com a base de dados. Após isso basta inicializar o compilador Java de s
  
  
 <h1>(EN-US)</h1>
-Our game prototype was developed during programming classes through 2 college years in a federal vocational school in Bragança Paulista, São Paulo, Brazil. In the meantime, it was proposed the creation of a project, which our group (Leonardo Paes, Pedro Teressan and Wictor Dalbosco) decided to build a game based on brazilian historical events ocurred on the XVI century. The prototype were coded in Java programming language. We implemented screens using technologies such as WindwBuilder and Hibernate to make a connection between the Database and the code. In short, it was made a basic screen modeling (Menu, Inventory) of a game
+Our game prototype was developed during programming classes through 2 college years in a federal vocational school in Bragança Paulista, São Paulo, Brazil. In the meantime, it was proposed the creation of a project, which our group (Leonardo Paes, Pedro Teressan and Wictor Dalbosco) decided to build a game based on brazilian historical events ocurred on the XVI century. The prototype were coded in Java programming language. We implemented screens using technologies such as WindwBuilder and Hibernate to make a connection between the Database and the code. In short, it was made a basic screen modeling (Menu, Inventory) of a game that tolds part of the Brazilian discovery history
 Brazilian history game programmed using Java for primary screens, such as Menu and Inventory.
    
  <b>Initializing the code</b>
