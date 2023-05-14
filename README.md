@@ -1,4 +1,4 @@
-# Terra De Vera Cruz
+# Terra De Vera Cruz (Vera Cruz's Land)
 
 Game prototype was developed during programming classes through 2 college years in a federal vocational school in Bragança Paulista, São Paulo, Brazil.
 
